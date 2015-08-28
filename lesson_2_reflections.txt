@@ -5,3 +5,5 @@ How is the staging area different from the working directory and the repository?
 	-It allows you more control over which files get committed - instead of just committing everything, you can commit only the specific files you want.
 How can you use the staging area to make sure you have one commit per logical change?
 	-You can check the changes in the staging area against the previous commit to make sure that what you're about to commit contains one logical change.
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+	-Branches would be helpful whenver you have experimental changes that you want to try out while also being able to progress on your main branch.
