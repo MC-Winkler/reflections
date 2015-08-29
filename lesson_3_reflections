@@ -6,3 +6,6 @@ Describe the differences between forks, clones, and branches. When would you use
 	-forks: like a clone, but everything stays on github's servers. Would use when you want to work on someone else's project, to give them credit for the work they did.
 	-clones: copies a repo into an empty repo. 
 	-branches: Branches exist within a repo and represent different variations of a project.
+What is the benefit of having a copy of the last known state of the remote stored locally?
+	-If you go offline you still have access to a recent state of the remote you're connected to.
+	
